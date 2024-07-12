@@ -27,7 +27,10 @@ git clone <repository_url>
 ### Install dependencies:
 Copy code
 ```
-pip install -r requirements.txt
+pip install pynput
+pip install pyperclip
+pip install googletrans==4.0.0-rc1
+pip install notify2
 ```
 
 # Usage
