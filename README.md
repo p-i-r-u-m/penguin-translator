@@ -21,7 +21,7 @@ Required Libraries:
 
 Copy code
 ```
-git clone <repository_url>
+git clone https://github.com/p-i-r-u-m/penguin-translator
 ```
 
 ### Install dependencies:
